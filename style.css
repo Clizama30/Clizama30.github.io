@@ -14,7 +14,7 @@
 
 .Home {
     height: 200%;
-    background: url('Me.Jpg');
+    background-image: url('Me.Jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: auto; 
