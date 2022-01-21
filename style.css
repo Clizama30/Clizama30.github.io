@@ -13,11 +13,9 @@
 }
 
 .Home {
-    height: 200%;
     background-image: url('Me.Jpg');
     background-size: cover;
-    background-repeat: no-repeat;
-    background-position: auto; 
+    background-repeat: no-repeat; 
 }
 .About{
     background-image: url('Bubble.png');
